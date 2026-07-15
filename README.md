@@ -1,1 +1,2 @@
 # PersonalInformationManager
+The Personal Information Manager (PIM) is a Python-based project developed to store and manage personal information efficiently. It allows users to add, view, search, update, and delete records through a simple menu-driven interface. The project uses Python concepts such as variables, input and output operations, string formatting, file handling, and exception handling to ensure accurate and secure data management. Its user-friendly design makes it suitable for academic and internship purposes while demonstrating core Python programming skills.
